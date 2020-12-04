@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.app{
+  background-color: #111;
+  color: white;
+  font-weight: 100 !important;
+}
